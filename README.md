@@ -14,3 +14,5 @@ Em seguida, o código cria uma janela GUI e configura sua aparência, título e 
 Quando um usuário pressiona um dos botões, a função correspondente é chamada e a expressão de cálculo é atualizada na caixa de texto. Quando o usuário pressiona o botão de igual, a função "equalpress" é chamada para avaliar a expressão e exibir o resultado.
 
 Finalmente, o código cria um loop infinito para manter a janela GUI aberta até que o usuário a feche manualmente.
+
+Olá
